@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+* {list-style: none; padding: 0; margin: 0;}
+body { width: 100% ; height: 100%;}
+#div1 {}
+#div1 ul { width: 400px; height: 800px;  position: relative; left: 100px;}
+li { position: absolute;}
+
+.parts { position: absolute; width: 40px; height: 40px; }
+
+#placed { width: 100%; height: 100%; position: absolute; top: 0; left: 0;}
+img { width: 40px; height: 40px;}
+#save { width: 200px; height: 200px; border: solid 1px white; border-top: none; background: black; position: absolute; left: 500px; top: 0;}
+#save p {color: white;  font-weight: bold; position: absolute; top: 180px;}
+#next { width: 200px; height: 600px; border: solid 1px white; border-bottom: none; background: black; position: absolute; left: 500px; top: 200px;}
+#next p { color: white; font-weight: bold; }
+#next .nextDiv { width: 200px; height: 160px; border: solid 1px white; margin-top: 20px; color: white; position: relative;}
+.shadow { position: absolute; width: 38px; height: 38px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
